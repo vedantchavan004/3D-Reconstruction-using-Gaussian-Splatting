@@ -15,8 +15,10 @@ This project demonstrates how to reconstruct and render photorealistic 3D scenes
 ## 🎥 Input & Output
 
 - 📹 **Input Video**: [`luffy_2.mp4`](./luffy_2.mp4) – Monocular video captured on a smartphone.
-- 🖼️ **Screenshot**: [`2.png`](./2.png) – Sample output from Gaussian Splatting render.
-- 🌐 **Live Viewer**: [Launch the 3D Viewer](./luffy.html) – View the reconstructed scene.
+- **Rendered Screenshot**:  
+![Sample Output](./2.png)
+
+**Live Viewer**: Open [`luffy.html`](./luffy.html)
 ---
 
 ## 📂 Project Structure
