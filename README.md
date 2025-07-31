@@ -2,6 +2,8 @@
 
 This project demonstrates how to reconstruct and render photorealistic 3D scenes from a monocular video using [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting). The input is a simple video captured on a mobile phone.
 
+📁 **GitHub Repository**: [github.com/vedantchavan004/3D-Reconstruction-using-Gaussian-Splatting](https://github.com/vedantchavan004/3D-Reconstruction-using-Gaussian-Splatting/)
+
 ## 🔧 Pipeline Overview
 
 1. **Input**: Monocular video recorded on a smartphone.
