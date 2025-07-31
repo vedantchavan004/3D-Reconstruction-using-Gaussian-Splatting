@@ -18,7 +18,7 @@ This project demonstrates how to reconstruct and render photorealistic 3D scenes
 - **Rendered Screenshot**:  
 ![Sample Output](./2.png)
 
-**Live Viewer**: Open [`luffy.html`](https://github.com/vedantchavan004/3D-Reconstruction-using-Gaussian-Splatting/blob/main/luffy.html)
+**Live Viewer**: [Open 3D Reconstruction](./luffy.html)
 ---
 
 ## 📂 Project Structure
