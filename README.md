@@ -14,9 +14,9 @@ This project demonstrates how to reconstruct and render photorealistic 3D scenes
 
 ## 🎥 Input & Output
 
-- 📹 **Input Video**: [`input_video/my_scene.mp4`](input_video/)
-- 🖼️ **Screenshots**: See [`screenshots/`](screenshots/) for output render samples.
-- 🌐 **Live Viewer**: [Launch the 3D Viewer](viewer/index.html) (host via GitHub Pages or localhost)
+- 📹 **Input Video**: [`luffy_2.mp4`](input_video/)
+- 🖼️ **Screenshots**: See [`2.png`](screenshots/) for output render samples.
+- 🌐 **Live Viewer**: [Launch the 3D Viewer](luffy.html) (host via GitHub Pages or localhost)
 
 ---
 
@@ -55,6 +55,3 @@ This project demonstrates how to reconstruct and render photorealistic 3D scenes
 
 ---
 
-## 📜 License
-
-This project is shared under the MIT License.
